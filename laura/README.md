@@ -17,8 +17,21 @@ En ocasiones disfruto:
 3. Compartir con mi familia y amigos.
 4. Jugar con mi mascota.
 
+<p align="center">
+<br>
+<img height="150" src="https://lh3.googleusercontent.com/proxy/W1xzB1qUtWI4Uy6VZgqThTYzrjawBUqlCjXOsI3EDaz04hhSMEX2nEkFwQVgw72S8toW60N2ZLzE5mM9qQKV0i737d2TaERHa5ve70WMCujEP7TdNx4OtmcUmbSTnaw" />
+<img height="150" src="https://static3.abc.es/media/bienestar/2019/08/02/tenis-abecedario-kgNF--1200x630@abc.jpg">
+<br>
+</p>
+
 <div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por **GNU**, ha evolucionado exitosamente. Además de reconocer personajes como **Linus Torvalds** y sus aportes a la informática. </div>
 
+<p align="center">
+<br>
+<img height="150" src="https://1.bp.blogspot.com/_UqUwVPikChs/SsIRQmiu8DI/AAAAAAAAKsk/VKdwz7ocn_Y/s320/Linux_tux.jpg" />
+<img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png">
+<br>
+</p>
 
 Enlace del Documental: [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI&t=2183s)
 
