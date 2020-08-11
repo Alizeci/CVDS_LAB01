@@ -18,9 +18,9 @@ En ocasiones disfruto:
 4. Jugar con mi mascota.
 
 <div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por **GNU**, ha evolucionado exitosamente. Además de reconocer personajes como **Linus Torvalds** y sus aportes a la informática. </div>
-<p>
-Enlace del Documental: [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI&t=2183s "The Code: Story of Linux documentary")
-</p>
+
+
+Enlace del Documental: [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI&t=2183s)
 
 En relación al tema comparto el código fuente de la primera versión del Kernel Linux 0.01, en el que se detalla el proceso de arranque del kernel.
 
@@ -85,5 +85,5 @@ int main(int argc, char ** argv)
 	return(0);
 	}
 ```
-Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](http://https://aprendiendoausarlinux.wordpress.com/2012/06/14/el-codigo-fuente-de-la-primera-version-del-kernel-linux-0-01/ "El Código Fuente de la Primera Versión del Kernel Linux 0.01")
+Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](https://aprendiendoausarlinux.wordpress.com/2012/06/14/el-codigo-fuente-de-la-primera-version-del-kernel-linux-0-01/ "El Código Fuente de la Primera Versión del Kernel Linux 0.01")
 
