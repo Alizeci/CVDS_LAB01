@@ -24,7 +24,7 @@ En ocasiones disfruto:
 <br>
 </p>
 
-<div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por **GNU**, ha evolucionado exitosamente. Además de reconocer personajes como **Linus Torvalds** y sus aportes a la informática. </div>
+<div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por GNU, ha evolucionado exitosamente. Además de reconocer personajes como Linus Torvalds y sus aportes a la informática. </div>
 
 <p align="center">
 <br>
