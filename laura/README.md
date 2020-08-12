@@ -105,13 +105,6 @@ Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](http
 
 [Learn Git Branching](https://learngitbranching.js.org/ "Learn Git Branching")
 
-> "Sección Main"
-
-
-#### Finalización ejercicios 
-
-[Learn Git Branching](https://learngitbranching.js.org/ "Learn Git Branching")
-
 **Sección Main**
 
 <p align="center">
