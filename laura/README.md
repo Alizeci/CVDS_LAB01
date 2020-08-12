@@ -17,10 +17,23 @@ En ocasiones disfruto:
 3. Compartir con mi familia y amigos.
 4. Jugar con mi mascota.
 
-<div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por **GNU**, ha evolucionado exitosamente. Además de reconocer personajes como **Linus Torvalds** y sus aportes a la informática. </div>
-<p>
-Enlace del Documental: [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI&t=2183s "The Code: Story of Linux documentary")
+<p align="center">
+<br>
+<img height="150" src="https://mejorconsalud.com/wp-content/uploads/2013/02/persona-pintnado-oleo-colores-500x334.jpg" />
+<img height="150" src="https://static3.abc.es/media/bienestar/2019/08/02/tenis-abecedario-kgNF--1200x630@abc.jpg">
+<br>
 </p>
+
+<div style="text-align: justify"> Me gusta ver videos acerca de temas relacionados con mi carrera como por ejemplo este documental sobre los inicios de Linux y como esta idea de libertad que empezó en colaboración por GNU, ha evolucionado exitosamente. Además de reconocer personajes como Linus Torvalds y sus aportes a la informática. </div>
+
+<p align="center">
+<br>
+<img height="150" src="https://1.bp.blogspot.com/_UqUwVPikChs/SsIRQmiu8DI/AAAAAAAAKsk/VKdwz7ocn_Y/s320/Linux_tux.jpg" />
+<img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png">
+<br>
+</p>
+
+Enlace del Documental: [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI&t=2183s)
 
 En relación al tema comparto el código fuente de la primera versión del Kernel Linux 0.01, en el que se detalla el proceso de arranque del kernel.
 
@@ -85,7 +98,14 @@ int main(int argc, char ** argv)
 	return(0);
 	}
 ```
-Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](http://https://aprendiendoausarlinux.wordpress.com/2012/06/14/el-codigo-fuente-de-la-primera-version-del-kernel-linux-0-01/ "El Código Fuente de la Primera Versión del Kernel Linux 0.01")
+Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](https://aprendiendoausarlinux.wordpress.com/2012/06/14/el-codigo-fuente-de-la-primera-version-del-kernel-linux-0-01/ "El Código Fuente de la Primera Versión del Kernel Linux 0.01")
+
+
+#### Finalización ejercicios 
+
+[Learn Git Branching](https://learngitbranching.js.org/ "Learn Git Branching")
+
+> "Sección Main"
 
 
 #### Finalización ejercicios 
