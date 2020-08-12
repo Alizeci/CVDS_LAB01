@@ -87,3 +87,13 @@ int main(int argc, char ** argv)
 ```
 Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](http://https://aprendiendoausarlinux.wordpress.com/2012/06/14/el-codigo-fuente-de-la-primera-version-del-kernel-linux-0-01/ "El Código Fuente de la Primera Versión del Kernel Linux 0.01")
 
+
+#### Finalización ejercicios 
+
+[Learn Git Branching](https://learngitbranching.js.org/ "Learn Git Branching")
+
+**Sección Main**
+
+<p align="center">
+  <img src="https://github.com/Alizeci/Git/blob/master/laura/mainEvidence.png" width="800">
+</p>
