@@ -110,3 +110,9 @@ Tomado de: [El Código Fuente de la Primera Versión del Kernel Linux 0.01](http
 <p align="center">
   <img src="https://github.com/Alizeci/Git/blob/master/laura/mainEvidence.png" width="800">
 </p>
+
+**Sección Remote**
+
+<p align="center">
+  <img src="https://github.com/Alizeci/Git/blob/master/laura/remoteEvidence.png" width="800">
+</p>
