@@ -4,12 +4,12 @@
 
 A partir de mi decisión de ser ingeniero de sistemas comencé a tener un aprecio muy especial sobre las materias de análisis y tratamiento de datos que por primera vez estoy viendo este semestre. 
 
-![Datos](https://cio.com.mx/wp-content/uploads/2019/01/analitica-datos-2019.jpg "analisis de datos")
+![Datos](<center>https://cio.com.mx/wp-content/uploads/2019/01/analitica-datos-2019.jpg</center> "analisis de datos")
 ---
 
 ### Sobre mi:
 
-##### - *Llanero de **corazón**.*
+##### - *Llanero de corazón.*
 ##### - *Egresado del colegio [I.T.I villavicencio](https://itivillavo.blogspot.com/ "blog principal").*
 ##### - *Hijo Mayor de una familia humilde.*
 
@@ -18,14 +18,14 @@ A partir de mi decisión de ser ingeniero de sistemas comencé a tener un apreci
 ### Mis Peliculas favoritas en mis diferentes generos:
 
 1. bélico
-	- Buscando al soldado RYAN 
-	- 1917
-	- Stalingrad
-	- Enemigo a puertas 
+	- **Buscando al soldado RYAN** 
+	- **1917**
+	- **Stalingrad**
+	- **Enemigo a puertas**
 
 2. Acción
-	- stars wars
-	- john wick 
+	- **stars wars**
+	- **john wick** 
 
 ---
 
