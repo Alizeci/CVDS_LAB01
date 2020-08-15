@@ -4,7 +4,7 @@
 
 A partir de mi decisión de ser ingeniero de sistemas comencé a tener un aprecio muy especial sobre las materias de análisis y tratamiento de datos que por primera vez estoy viendo este semestre. 
 
-![Datos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcio.com.mx%2Fque-veremos-en-la-analitica-de-datos-este-2019%2F&psig=AOvVaw2yYD9gFvk2sqG2raCnNfcZ&ust=1597546794505000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiaxN2bnOsCFQAAAAAdAAAAABAD "analisis de datos")
+![Datos](https://cio.com.mx/wp-content/uploads/2019/01/analitica-datos-2019.jpg "analisis de datos")
 ---
 
 ### Sobre mi:
