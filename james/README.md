@@ -1,10 +1,14 @@
 ## **TORRES SEGURA DUCK JAMES ALEXANDER**
-##### Estudiante de Ingeniería de sistemas\
+##### Estudiante de Ingeniería de sistemas \
 ##### Autodidacta en potencia 
 
 ---
 
 ### Te contare sobre mi:
-##### - *Hijo Mayor.*
+
+##### - *Llanero de **corazón**.*
+##### - *Egresado del colegio I.T.I villavicencio.*
+##### - *Hijo Mayor de una familia humilde.*
+
 
 
