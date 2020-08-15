@@ -15,6 +15,7 @@ A partir de mi decisión de ser ingeniero de sistemas comencé a tener un apreci
 ##### - *Hijo Mayor de una familia humilde.*
 
 ![](https://meridiano70.co/wp-content/uploads/2018/07/20160725053821_12_d-a-llanero-1.jpg "llanero")
+
 ---
 
 Hablando un poco mas a fondo sobre mi carrera me gusta mucho la estructura que maneja el HTML para crear las páginas que día a día observamos un ejemplo de su estructura es el siguiente:
