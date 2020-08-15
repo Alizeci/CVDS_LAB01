@@ -1,6 +1,7 @@
 ## TORRES SEGURA DUCK JAMES ALEXANDER
-> Estudiante de Ingeniería de sistemas 
-> Autodidacta en potencia 
+> Estudiante de Ingeniería de sistemas
+
+>> Autodidacta en potencia 
 
 A partir de mi decisión de ser ingeniero de sistemas comencé a tener un aprecio muy especial sobre las materias de análisis y tratamiento de datos que por primera vez estoy viendo este semestre. 
 
@@ -30,8 +31,8 @@ Hablando un poco mas a fondo sobre mi carrera me gusta mucho la estructura que m
   </body>
 </html>
 ```
-Tomado de:
-<https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics>
+
+[Tomado de eveloper.mozilla.org ](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 ---
 ### Mis Peliculas favoritas en mis diferentes generos:
 
