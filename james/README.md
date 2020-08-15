@@ -1,6 +1,8 @@
-## **TORRES SEGURA DUCK JAMES ALEXANDER**
+## TORRES SEGURA DUCK JAMES ALEXANDER
 ##### Estudiante de Ingeniería de sistemas 
 ##### Autodidacta en potencia 
+
+A partir de mi decisión de ser ingeniero de sistemas comencé a tener un aprecio muy especial sobre las materias de análisis y tratamiento de datos que por primera vez estoy viendo este semestre. 
 
 ---
 
@@ -12,7 +14,7 @@
 
 ---
 
-### Mis Peliculas favoritas en mis diferentes **generos**:
+### Mis Peliculas favoritas en mis diferentes generos:
 
 1. bélico
 	- Buscando al soldado RYAN 
@@ -31,8 +33,8 @@
 1. HIP HOP
 	- ***Ice cube***
 	- ***Snoop dogg***
-	- *** DR.Dre***
-	- *** Eminem ***
+	- ***DR.Dre***
+	- ***Eminem***
 2. Ranchera
 	- ***Vicente fernández***
 	- ***Antonio Aguilar***
