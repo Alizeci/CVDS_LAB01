@@ -9,7 +9,7 @@ A partir de mi decisión de ser ingeniero de sistemas comencé a tener un apreci
 ### Sobre mi:
 
 ##### - *Llanero de **corazón**.*
-##### - *Egresado del colegio I.T.I villavicencio.*
+##### - *Egresado del colegio [I.T.I villavicencio] (https://itivillavo.blogspot.com/).*
 ##### - *Hijo Mayor de una familia humilde.*
 
 ---
