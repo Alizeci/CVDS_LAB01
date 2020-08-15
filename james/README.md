@@ -26,4 +26,25 @@
 
 ---
 
+### Mis generos y artistas musicales favoritos:
+
+1. HIP HOP
+	- ***Ice cube***
+	- ***Snoop dogg***
+	- *** DR.Dre***
+	- *** Eminem ***
+2. Ranchera
+	- ***Vicente fernández***
+	- ***Antonio Aguilar***
+	- ***Javier solís***
+
+3. Popular
+	- ***Dario Gómez***
+	- ***Yeison Jiménez***
+	- ***Jhon Alex Castaño***
+4. Urbana
+
+	- ***Maluma***
+	- ***J Balbin***
+	- ***Yandel***
 
